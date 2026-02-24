@@ -16,6 +16,8 @@ Criar um índice de aproveitamento (IAp)
 Classificar os alunos quanto ao risco de reprovação
 
 Realizar uma análise crítica sobre o modelo proposto
+
+
 📌 Sobre o Projeto
 
 Este repositório contém a solução do Exercício 01 – Análise Estatística e Modelo de Previsão, desenvolvido para a disciplina de Inteligência Artificial do curso de Sistemas de Informação.
