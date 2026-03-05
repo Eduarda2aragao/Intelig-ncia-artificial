@@ -37,4 +37,4 @@ Classificar os alunos quanto ao risco de reprovação
 Realizar uma análise crítica sobre o modelo proposto
 
 ✍️ Autoria -
-Projeto desenvolvido para fins acadêmicos como parte das atividades da disciplina de Inteligência Artificial.
+Projeto desenvolvido para fins acadêmicos como parte das atividades da disciplina de Inteligência Artificial(Python).
